@@ -1,0 +1,10 @@
+https://docs.rhodecode.com/RhodeCode-Enterprise/admin/gunicorn-ssl-support.html#:~:text=Gunicorn%20wsgi%20server%20allows%20users,%2Finstance%2Did%2Frhodecode.
+
+https://stackoverflow.com/questions/7406805/running-gunicorn-on-https
+
+https://docs.gunicorn.org/en/20.1.0/settings.html
+
+https://stackoverflow.com/questions/69207474/enable-https-using-uvicorn
+
+https://medium.com/@mariovanrooij/adding-https-to-fastapi-ad5e0f9e084e
+

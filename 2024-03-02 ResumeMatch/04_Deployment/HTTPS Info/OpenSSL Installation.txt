@@ -1,0 +1,11 @@
+Downloaded the windows MSI from here:
+  https://slproweb.com/products/Win32OpenSSL.html
+
+
+How to set path after installing the "Win64OpenSSL-3_3_0.msi":
+  https://www.youtube.com/watch?v=-TojCs7xIY0
+  https://www.youtube.com/watch?v=jSkQ27sTto0
+
+
+Pip installation:
+  https://stackoverflow.com/questions/35232350/correctly-installing-pyopenssl-for-python-windows

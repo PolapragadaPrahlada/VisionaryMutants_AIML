@@ -1,0 +1,37 @@
+"Technical Skills / Responsibilities: Ã¢Â€Â¢ Hands on Experience with Production and Maintenance of Projects. Ã¢Â€Â¢ Experience in handling projects in agile methodology. Ã¢Â€Â¢ Experience in handling projects in SDLC, Involved in each stage of Software Development Life Cycle. Ã¢Â€Â¢ Responsible to gather requirement (Customer Interaction) and providing Estimate & solution document then as per process FS, TS, Coding, UTP, UTR, PTF, SOW submission to customer. Ã¢Â€Â¢ Having strong knowledge of Debugging and Testing based on Python and AS/400. Ã¢Â€Â¢ Worked as Change Controller - Responsible for promoting changes in Development to UAT and LIVE environment through Pivotal Cloud Foundry. Ã¢Â€Â¢ Have good communication skills, Inter personal skills, hardworking and result oriented as an Individual and in team. Certification and Trainings: Ã¢Â€Â¢ Completed Internal Python training. Ã¢Â€Â¢ Completed Internal Python Web Crawling training. Ã¢Â€Â¢ Completed Internal Python Web Scraping training. Ã¢Â€Â¢ Completed Internal Python for Data Science training. Ã¢Â€Â¢ Completed Internal MongoDB training. Ã¢Â€Â¢ Completed Internal MySQL training. Ã¢Â€Â¢ Completed Internal PostgreSQL training. Ã¢Â€Â¢ Completed Internal DJango training. Ã¢Â€Â¢ Completed Internal Angular 6, HTML, CSS training. Ã¢Â€Â¢ Completed German A1 level and preparing for A2 from Goethe-Institute. Ã¢Â€Â¢ Completed Internal Core Java training. Ã¢Â€Â¢ Completed IBM I series AS\400 Training course at Maples Institute, Pune. Ã¢Â€Â¢ Complete Internal MOVEX ERP training (Techn: AS400/RPG/RPGLE) Ã¢Â€Â¢ Completed Internal M3 ERP training (Techn: Java) Ã¢Â€Â¢ Completed Internal Stream serve training. Ã¢Â€Â¢ Completed M3 Enterprise Collaborator (MEC) training.Education Details 
+ M.Sc. Computer Science Pune, Maharashtra Pune University
+ B.Sc. Computer Science Pune, Maharashtra Pune University
+ H.S.C.  Pune, Maharashtra Pune University
+Python RESTful API developer 
+
+Python developer - KPIT Technologies
+Skill Details 
+Flask- Exprience - Less than 1 year months
+Python- Exprience - Less than 1 year months
+Restful- Exprience - Less than 1 year months
+Rest- Exprience - Less than 1 year months
+Numpy- Exprience - Less than 1 year months
+AS/400- Exprience - 90 monthsCompany Details 
+company - KPIT Technologies
+description - since 6th July 2011 to till date:
+
+Ã¢Â€Â¢ Currently working as a Python API developer having 2 years of experience in Python- MongoDB/MySQL development/support project.
+Ã¢Â€Â¢ Worked as a M3 Java developer and Stream serve developer of Movex/M3 ERP for 1
+year.
+Ã¢Â€Â¢ Worked as a Senior AS400 and Stream serve developer of Movex/M3 ERP for 4 years.
+
+Technical Expertise:
+Ã¢Â€Â¢ Python development:
+Ã¢Â€Â¢ Python - MongoDB
+Ã¢Â€Â¢ Python - MySql
+Ã¢Â€Â¢ Python Cache & Memoization
+Ã¢Â€Â¢ Python GIT
+Ã¢Â€Â¢ Python PWS (Pivotal Web Service - Cloud Foundry)
+Ã¢Â€Â¢ German A1 Level
+
+Ã¢Â€Â¢ M3/Movex ERP development:
+Ã¢Â€Â¢ M3 Java of Movex/M3 ERP
+Ã¢Â€Â¢ AS400 development of Movex/M3 ERP
+Ã¢Â€Â¢ Stream Server development of Movex/M3 ERP
+Ã¢Â€Â¢ Movex/M3 Standards, RPG/400, CL/400, ILE RPG, ILE CL, DB2/400, QUERY400 and SQL/400, Subfiles, Printer Files, PF ,LF
+Ã¢Â€Â¢ Movex/M3 Flows, Programs & database structure, MI Programs."

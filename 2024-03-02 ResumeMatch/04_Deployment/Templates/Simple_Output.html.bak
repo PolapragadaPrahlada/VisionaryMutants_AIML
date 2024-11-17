@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Resume Match App</title>
+
+    <style>
+    /* Red border */
+    hr.new1 
+    {
+      border-top: 1px solid red;
+    }
+
+    /* Dashed red border */
+    hr.new2 
+    {
+      border-top: 1px dashed red;
+    }
+
+    /* Dotted red border */
+    hr.new3 
+    {
+      border-top: 1px dotted red;
+    }
+
+    /* Large rounded green border */
+    hr.new5 
+    {
+      border: 10px solid green;
+      border-radius: 5px;
+    }
+
+
+    /* Thick gray border */
+    hr.solid_gray
+    {
+      border: 1px solid gray;
+    }
+
+    table, th, td 
+    {
+      border: 2px solid white;
+      border-collapse: collapse;
+    }
+    th, td 
+    {
+      background-color: Lightgray;
+    }
+    </style>
+  </head>
+
+
+  <body bgcolor = Lightgray>
+    <!-- Main Heading of the User Interface -->
+    <h1 align="center" style="font-family:Calibri; font-size:50px; color:DodgerBlue;">User Application</h1>
+    <p  align="center" style="font-family:Calibri; font-size:25px; color:Green;">for</p>
+    <p  align="center" style="font-family:Calibri; font-size:25px; color:Tomato;">Predicting the Resume Match</p>
+    <!-- <hr> -->
+    <hr class="solid_gray">
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <form method = "post" enctype = "multipart/form-data">
+      <table align="center" style="width:100%">
+        <tr>
+          <td align="center" style="font-size:24px; color:SlateBlue; width:100%" colspan=2"> Resume Match Information </td> 
+        </tr>
+        <tr>
+          <td align="center" style="font-size:20px; width:100%" colspan=2"> {{PredictionStr}} </td> 
+        </tr>
+        <tr>
+          <td align="center" style="font-size:20px; width:100%" colspan=2"> {{ClassProb}} </td> 
+        </tr>
+      </table>
+    </form>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <form>
+      <table align="center" style="width:100%">
+        <tr>
+          <td align="center" style="font-size:20px; background-color:Gray; width:100%" colspan=2"> <button type="submit" onClick="refreshPage()">Reload</button> </td> 
+        </tr>
+      </table>
+    </form>
+
+  </body>
+</html>
